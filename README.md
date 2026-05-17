@@ -18,4 +18,3 @@ pip install pandas matplotlib
 ## Arquivos gerados
 
 - `relatorio.json` - resultado da análise em JSON
-- `grafico.png` - gráfico de saldo e crédito/débito por mês (opcional)
